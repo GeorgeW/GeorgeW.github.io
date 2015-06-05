@@ -4,7 +4,7 @@ title:  "Mobile First"
 date:   2015-06-05 4:41pm
 categories: mobile
 tags: featured
-image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
+image: /assets/article_images/2015-06-05-mobile-first/iphone6.jpg
 ---
 
 ##Developing Mobile First
