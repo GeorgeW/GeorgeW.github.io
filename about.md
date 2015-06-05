@@ -12,6 +12,6 @@ permalink: /about/
 
 **Specialty** : Front End Development
 
-*Well what are you waiting for? Buy me a :coffee: and lets chat about your idea!*
+*Well what are you waiting for? Lets grab a :coffee: and chat about your idea!*
 
 ##<a href="mailto:{{ site.email}}">Mail Me!</a>
